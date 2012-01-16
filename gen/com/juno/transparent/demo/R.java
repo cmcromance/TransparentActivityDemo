@@ -32,6 +32,5 @@ public final class R {
     }
     public static final class style {
         public static final int Theme_Transparent=0x7f060000;
-        public static final int Theme_Transparent_test=0x7f060001;
     }
 }
